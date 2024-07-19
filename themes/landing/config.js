@@ -23,6 +23,10 @@ const CONFIG = {
   LANDING_FEATURES_HEADER_1_P: "当初这么想着做这么一个知识库？<br/>曾经，我们也是被困于<strong class='font-bold text-red-500'>信息茧房</strong><strong class='font-bold  text-red-500'>傲慢</strong>之人，是<strong class='font-bold text-red-500'>迷茫</strong>在<strong class='font-bold text-red-500'>人生长河</strong>中挣扎的人儿;<br/>现在，我们跳出了茧房，向同样的人伸出援手",
   LANDING_FEATURES_HEADER_2: '不刷短视频好无聊，不知道干嘛？知识库会给你答案',
   LANDING_FEATURES_HEADER_2_P: '精读文章，专业课程，高分电影，趣味软件&网站，必看书籍，心理咨询，同好友人，助你逃离短视频的枷锁',
+  LANDING_FEATURES_CARD_1_TITLE: '简单快速的系统',
+  LANDING_FEATURES_CARD_1_P: '在Notion中写下一篇文章，内容立刻在您的网站首页中呈现给互联网',
+  LANDING_FEATURES_CARD_2_TITLE: '高效传播的媒介',
+  LANDING_FEATURES_CARD_2_P: '优秀的SEO、快速的响应速度，让您的产品和宣传触达到更多的受众',
   LANDING_FEATURES_CARD_3_TITLE: '人性化的定制工具',
   LANDING_FEATURES_CARD_3_P: '多款主题供您挑选，可以搭建各种不同风格和作用的网站，更多的主题正在陆续加入中。',
 
