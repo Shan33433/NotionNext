@@ -65,16 +65,19 @@ const CONFIG = {
 
   LANDING_PRICING_1_TITLE: '月度会员',
   LANDING_PRICING_1_PRICE: '30/月',
+  LANDING_PRICING_1_CONTENT: '项目源代码,部署教程,不定时技术答疑',
   LANDING_PRICING_1_BUTTON: '立即购买',
   LANDING_PRICING_1_URL: 'https://docs.tangly1024.com/about',
 
   LANDING_PRICING_2_TITLE: '季度会员',
   LANDING_PRICING_2_PRICE: '$55/季度',
+  LANDING_PRICING_2_CONTENT: '项目源代码,部署教程,长期技术答疑,代码升级合并,内部社群',
   LANDING_PRICING_2_BUTTON: '立即购买',
   LANDING_PRICING_2_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/0adb9153-0799-4f51-91aa-1f06391ea4e0',
 
   LANDING_PRICING_3_TITLE: '年度会员',
   LANDING_PRICING_3_PRICE: '$169/年',
+  LANDING_PRICING_3_CONTENT: '项目源代码,部署教程,VIP技术咨询,代码升级合并,内部社群,定制功能开发,SEO优化',
   LANDING_PRICING_3_BUTTON: '立即购买',
   LANDING_PRICING_3_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
