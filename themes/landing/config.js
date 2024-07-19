@@ -23,6 +23,8 @@ const CONFIG = {
   LANDING_FEATURES_HEADER_1_P: "当初这么想着做这么一个知识库？<br/>曾经，我们也是被困于<strong class='font-bold text-red-500'>信息茧房</strong><strong class='font-bold  text-red-500'>傲慢</strong>之人，是<strong class='font-bold text-red-500'>迷茫</strong>在<strong class='font-bold text-red-500'>人生长河</strong>中挣扎的人儿;<br/>现在，我们跳出了茧房，向同样的人伸出援手",
   LANDING_FEATURES_HEADER_2: '不刷短视频好无聊，不知道干嘛？知识库会给你答案',
   LANDING_FEATURES_HEADER_2_P: '精读文章，专业课程，高分电影，趣味软件&网站，必看书籍，心理咨询，同好友人，助你逃离短视频的枷锁',
+  LANDING_FEATURES_CARD_3_TITLE: '人性化的定制工具',
+  LANDING_FEATURES_CARD_3_P: '多款主题供您挑选，可以搭建各种不同风格和作用的网站，更多的主题正在陆续加入中。',
 
   // 特性介绍2
   LANDING_FEATURES_BLOCK_HEADER: '解决方案',
@@ -37,6 +39,8 @@ const CONFIG = {
   LANDING_FEATURES_BLOCK_4_P: '放松身心的同时感受不同人生悲欢离合，提升心境的同时得到教育启发',
   LANDING_FEATURES_BLOCK_5_TITLE: '茴香图书',
   LANDING_FEATURES_BLOCK_5_P: '书是知识的载体，记录漫长历史遗留下来的智慧，为你迷茫的前路拨云散雾',
+  LANDING_FEATURES_BLOCK_6_TITLE: '开始写博客吧',
+  LANDING_FEATURES_BLOCK_6_P: 'NotionNext，助您轻松开始写作',
 
   // 感言
   LANDING_TESTIMONIALS_HEADER: '已收录精读文章100＋，资源网站若干，精品书籍上百已经大量高分电影',
