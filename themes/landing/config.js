@@ -1,10 +1,10 @@
 const CONFIG = {
 
-  LANDING_HEADER_BUTTON_1_TITLE: 'Github开源',
-  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
+  LANDING_HEADER_BUTTON_1_TITLE: '知识库介绍',
+  LANDING_HEADER_BUTTON_1_URL: 'https://www.huixiangdou.top/',
 
-  LANDING_HEADER_BUTTON_2_TITLE: '作者博客',
-  LANDING_HEADER_BUTTON_2_URL: 'https://blog.tangly1024.com/',
+  LANDING_HEADER_BUTTON_2_TITLE: '制作团队',
+  LANDING_HEADER_BUTTON_2_URL: 'https://www.huixiangdou.top/',
 
   // 首页大图英雄板块
   LANDING_HERO_TITLE_1: '茴香豆知识库',
@@ -47,14 +47,14 @@ const CONFIG = {
   LANDING_FEATURES_BLOCK_6_P: '茴香豆知识库，助您成为更好的自己',
 
   // 感言
-  LANDING_TESTIMONIALS_HEADER: '已收录精读文章100＋，资源网站若干，精品书籍上百已经大量高分电影',
+  LANDING_TESTIMONIALS_HEADER: '已收录精读文章100＋，资源网站若干，精品书籍上百以及大量高分电影',
   LANDING_TESTIMONIALS_P: '知识库内容涵盖教育、国学、养生、IT、电子、软件、自媒体、商业、艺术爱好、等等各中内容',
 
   LANDING_TESTIMONIALS_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
   LANDING_TESTIMONIALS_NICKNAME: 'huixiangdou',
   LANDING_TESTIMONIALS_ID: 'shansifu',
   LANDING_TESTIMONIALS_SOCIAL_NAME: '山',
-  LANDING_TESTIMONIALS_SOCIAL_URL: 'https://blog.gaoran.xyz/',
+  LANDING_TESTIMONIALS_SOCIAL_URL: 'https://www.huixiangdou.top/',
   LANDING_TESTIMONIALS_WORD: '“ 成长的过程总是漫长而又崎岖坎坷的，坚持自己的选择是走完它的重要动力 “',
 
   LANDING_POST_REDIRECT_ENABLE: process.env.NEXT_PUBLIC_POST_REDIRECT_ENABLE || false, // 是否开启文章地址重定向 ； 用于迁移旧网站域名
@@ -64,22 +64,22 @@ const CONFIG = {
   LANDING_PRICING_P: '购买方式还未确定，价格暂时仅供参考，请勿购买！！！',
 
   LANDING_PRICING_1_TITLE: '月度会员',
-  LANDING_PRICING_1_PRICE: '30/月',
+  LANDING_PRICING_1_PRICE: '30元/月',
   LANDING_PRICING_1_CONTENT: '会员服务,不定时答疑',
-  LANDING_PRICING_1_BUTTON: '立即购买',
-  LANDING_PRICING_1_URL: 'https://docs.tangly1024.com/about',
+  LANDING_PRICING_1_BUTTON: '了解更多',
+  LANDING_PRICING_1_URL: 'https://www.huixiangdou.top/',
 
   LANDING_PRICING_2_TITLE: '季度会员',
-  LANDING_PRICING_2_PRICE: '$55/季度',
+  LANDING_PRICING_2_PRICE: '55元/季度',
   LANDING_PRICING_2_CONTENT: '会员服务,帮找各种资源，不定时答疑',
-  LANDING_PRICING_2_BUTTON: '立即购买',
-  LANDING_PRICING_2_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/0adb9153-0799-4f51-91aa-1f06391ea4e0',
+  LANDING_PRICING_2_BUTTON: '联系我们',
+  LANDING_PRICING_2_URL: 'https://www.huixiangdou.top/',
 
   LANDING_PRICING_3_TITLE: '年度会员',
-  LANDING_PRICING_3_PRICE: '$169/年',
+  LANDING_PRICING_3_PRICE: '$169元/年',
   LANDING_PRICING_3_CONTENT: '会员服务,帮找各种资源，不定时答疑',
-  LANDING_PRICING_3_BUTTON: '立即购买',
-  LANDING_PRICING_3_URL: 'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+  LANDING_PRICING_3_BUTTON: '私信我们',
+  LANDING_PRICING_3_URL: 'https://www.huixiangdou.top/',
 
   LANDING_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_LANDING_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
