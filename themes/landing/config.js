@@ -76,7 +76,7 @@ const CONFIG = {
   LANDING_PRICING_2_URL: 'https://www.huixiangdou.top/',
 
   LANDING_PRICING_3_TITLE: '年度会员',
-  LANDING_PRICING_3_PRICE: '$169元/年',
+  LANDING_PRICING_3_PRICE: '169元/年',
   LANDING_PRICING_3_CONTENT: '会员服务,帮找各种资源，不定时答疑',
   LANDING_PRICING_3_BUTTON: '私信我们',
   LANDING_PRICING_3_URL: 'https://www.huixiangdou.top/',
